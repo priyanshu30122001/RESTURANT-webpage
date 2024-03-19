@@ -11,19 +11,19 @@ body{
     
 }
 header{
-    background-color: white;
+    background-color: white; 
     position:sticky;
     top: 0;
     padding: 10px 0;
     z-index: 1;
 }
 .topsection{
-  max-width: 1200px;
-  margin: 0 auto;
+  width: 100;
   display: flex;
-  justify-content:space-between;
+  justify-content:space-around;
   align-items: center;
-  box-shadow: 1px 1px 3px rgb(209, 207, 207);
+  box-shadow: 1px 0px 3px rgb(209, 207, 207);
+
 
 }
 /*   HERO SECTION  */
